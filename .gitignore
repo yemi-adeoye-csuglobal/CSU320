@@ -16,6 +16,7 @@ bin/
 .recommenders/
 .loadpath
 *.launch
+.project
 
 # External tool builders
 .externalToolBuilders/
