@@ -1,0 +1,42 @@
+# ==========================================
+# Java Build Artifacts (Compiled Classes)
+# ==========================================
+*.class
+*.jar
+*.war
+*.ear
+
+# Default Eclipse build output folder
+bin/
+
+# ==========================================
+# Eclipse IDE Specific Files
+# ==========================================
+.metadata/
+.recommenders/
+.loadpath
+*.launch
+
+# External tool builders
+.externalToolBuilders/
+
+# Java annotation processor
+.factorypath
+
+# ==========================================
+# Build Tools (Uncomment based on your project)
+# ==========================================
+# Maven build folder
+# target/
+
+# Gradle build folder
+# build/
+# .gradle/
+
+# ==========================================
+# Operating System Files
+# ==========================================
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
