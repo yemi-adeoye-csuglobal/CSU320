@@ -1,0 +1,20 @@
+
+Step 0: Start
+
+Step 1: Declare variable to store student's first name named firstName
+Step 2: Declare variable to store student's last name named lastName
+Step 3: Declare variable to store student's street address named streetAddress
+Step 4: Declare variable to store student's city named city
+Step 5: Declare variable to store student's zip name zip
+Step 6: Declare variable to store student's state named state
+
+Step 7: Prompt user for student first name and store in variable firstName
+Step 8: Prompt user for student last name and store in variable lastName
+Step 9: Prompt user for student street address and store in variable streetAddress
+Step 10: Prompt user for student city and store in variable city
+Step 11: Prompt user for student zip and store in variable zip
+Step 12: Prompt user for student state and store in variable state
+
+Step 13: Output student first name, last name, street address, city, zip, and state
+
+Step 14: End
